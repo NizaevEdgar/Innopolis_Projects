@@ -36,3 +36,4 @@
 | 31.   | [Домашняя работа №31 (Homework_31)](https://github.com/NizaevEdgar/Innopolis_Projects/tree/main/Module_4_Deep_Learning/Homework_31) | Mодуль №4. Тема 2 - Трансформеры, Visual Transformer (ViT). Написали код ViT, протестировали на датасете CIFAR-10|
 | 32.   | [Домашняя работа №32 (Homework_32)](https://github.com/NizaevEdgar/Innopolis_Projects/tree/main/Module_4_Deep_Learning/Homework_32) | Mодуль №4. Тема 3 - Сделали сканер Судоку, который по фото определяет контуры цифр. Для обучения модели использовали MNIST|
 | 33.   | [Домашняя работа №33 (Homework_33)](https://github.com/NizaevEdgar/Innopolis_Projects/tree/main/Module_4_Deep_Learning/Homework_33) | Mодуль №4. Тема 4 - Сравнили эмбеддинги картинок, использовали РСА, использовали автоэнкодер|
+| 34.   | [Домашняя работа №34 (Homework_34)](https://github.com/NizaevEdgar/Innopolis_Projects/tree/main/Module_4_Deep_Learning/Homework_34) | Mодуль №4. Тема 5 - Обучение модели U-net на датасете Carvana|
