@@ -3,6 +3,12 @@
 
 | #    | Наименование проекта                                                                                                        | Описание                                                     |
 | ---- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| | |  **Промежуточные аттестации и Финальный проект** |
+| 1.   | [Аттестационная работа №2 (Attestation_2)](https://github.com/NizaevEdgar/Innopolis_Projects/tree/main/Attestation_2) |Тренировка запросов к базе данных|
+| 2.   | [Аттестационная работа №3 (Attestation_3)](https://github.com/NizaevEdgar/Innopolis_Projects/tree/main/Attestation_3) |Предсказывание падения астероида на Землю. Использование H2O AUTOML, FLAML, AutoGluon|
+| 3.   | [Аттестационная работа №4 (Attestation_4)](https://github.com/NizaevEdgar/Innopolis_Projects/tree/main/Attestation_4) |Распознавание ключевых точек в видео потоке. KeypointRCNN|
+| 4.   | [Финальный проект (Final_project)](https://github.com/NizaevEdgar/Innopolis_Projects/tree/main/Final_Project) |Детектирование и классификация дорожных знаков на изображении и видео. Модели  YOLO11 и YOLO12 + Аугментации|
+| | |  **Домашние работы на курсе** |
 | 1.   | [Домашняя работа №1 (Homework_1)](https://github.com/NizaevEdgar/Innopolis_Projects/blob/main/Homework_1/homework_1.ipynb) | Решены две задачи. Задача 1 - Найти Максимум, минимум, остальное; Задача 2 - Счастливый билет|
 | 2.   | [Домашняя работа №2 (Homework_2)](https://github.com/NizaevEdgar/Innopolis_Projects/blob/main/Homework_2/homework_2.ipynb) | Решены две задачи по библиотеке Numpy и рассмотрен датафрейм с помощью библиотеки Pandas|
 | 3.   | [Домашняя работа №3 (Homework_3)](https://github.com/NizaevEdgar/Innopolis_Projects/blob/main/Homework_3/homework_3.ipynb) | Задача 1 - представлена функция для построения графиков с помощью трех библиотек: Matplotlib, Seaborn, Plotly. Задача 2 - Рассмотрены Boxplot, Scatterplot и Countplot при работе с датафреймом. Задача 3 - Загружена цветная картинка и трансформирована в серые и монохромные оттенки.|
